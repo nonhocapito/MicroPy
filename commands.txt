@@ -1,0 +1,18 @@
+
+==========================================
+==============ELENCO COMANDI==============
+==========================================
+
+TASTO	AZIONE
+------------------------------------------
+R	ruota
+W	zona di interesse ON/OFF
+G	griglia ON/OFF
+1	passa a obiettivo 4x (rosso)
+2	passa a obiettivo 20x (giallo)
+3	passa a obiettivo 40x (blu)
+4	passa a obiettivo 100x (grigio)
+K	calibra obiettivo corrente
+------------------------------------------
+S	salva foto
+Q	esci
