@@ -10,9 +10,15 @@ First, you'll need a light microscope and an Android smartphone. You'll also nee
 
 Download the repository and install the dependencies ("requirements.txt") in your local folder (virtual environment recommended). Install the IP Webcam app on your smartphone and start the IP server.
 
-Launch the script with the command `python3 main.py` and entering the IP address displayed in the app once asked. The IP address is saved in memory and the script will attempt to use it on subsequent runs if it's still available (but it usually changes).
+Launch the script with the command
+```
+python3 main.py
+```
+and entering the IP address displayed in the app once asked. The IP address is saved in memory and the script will attempt to use it on subsequent runs if it's still available (but it usually changes).
 
 ## Commands and functions
+
+To measure a distance correctly, you must first calibrate your microscope. You can calibrate the current objective (selectable with the `1`, `2`, `3`, and `4` keys) simply by pressing `K`.
 
 ```
 KEY    ACTION
