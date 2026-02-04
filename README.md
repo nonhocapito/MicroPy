@@ -8,7 +8,7 @@ A complete optical microscope manager. Use your smartphone to view live microsco
 
 First, you'll need a light microscope and an Android smartphone. You'll also need a smartphone stand to attach to the microscope. If you don't have one, you can find one on Amazon or 3D print one.
 
-Download the repository and install the dependencies (`requirements.txt`) in your local folder (virtual environment recommended). Install the IP Webcam app on your smartphone and start the IP server.
+Download the repository and install the dependencies (`requirements.txt`) in your local folder (virtual environment recommended). Install the IP Webcam app on your smartphone and start the IP server. For MicroPy to work, both your smartphone and your computer must be connected to the same Wi-Fi network, even without internet access.
 
 Launch the script with the command
 ```
