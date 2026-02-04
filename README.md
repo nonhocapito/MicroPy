@@ -18,7 +18,7 @@ and entering the IP address displayed in the app once asked. The IP address is s
 
 ## Commands and functions
 
-To measure a distance correctly, you must first calibrate your microscope. You can calibrate the current objective (selectable with the `1`, `2`, `3`, and `4` keys) simply by pressing `K`.
+To measure a distance correctly, you must first calibrate your microscope. You can calibrate the current objective (selectable with the `1`, `2`, `3`, and `4` keys) simply by pressing `K`. Once you've calibrated and changed the objective, the scale bar will update automatically. Just remember to change the objective in MicroPy when you physically change the objective on the microscope!
 
 ```
 KEY    ACTION
